@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Base application theme. -->
+<style name="Base.Theme.QuizApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!-- Customize your Dark theme here. -->
+    <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+
+
+    <!--        <item name="android:windowFullscreen">true</item>-->
+    <item name="android:statusBarColor">#ade8f4</item>
+</style>
+
+<style name="Theme.QuizApp" parent="Base.Theme.QuizApp" />
+
+</resources>
