@@ -47,7 +47,7 @@
                 style="?android:attr/progressBarStyleHorizontal"
                 android:indeterminate="false"
                 android:max="10"
-                android:progress="7"
+                android:progress="3"
                 android:minHeight="50dp"
                 />
             <TextView
